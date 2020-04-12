@@ -1,0 +1,28 @@
+body {
+  color: white;
+}
+
+body {
+  color: red;
+  /* background: url(/static/images/1.jpg) 0 0 no-repeat; */
+  background: url(/static/images/1.jpg);
+}
+::-webkit-input-placeholder {
+  color: #999;
+}
+:-moz-placeholder {
+  color: #999;
+}
+::-moz-placeholder {
+  color: #999;
+}
+:-ms-input-placeholder {
+  color: #999;
+}
+::-ms-input-placeholder {
+  color: #999;
+}
+::placeholder {
+  color: #999;
+}
+

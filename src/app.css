@@ -1,0 +1,8 @@
+body {
+  color: red;
+  /* background: url(/static/images/1.jpg) 0 0 no-repeat; */
+  background: url(./assets/1.jpg);
+}
+::placeholder {
+  color: #999;
+}
